@@ -1,6 +1,7 @@
 # p5JSArt
 
 Feel free to play around and generate your own art over here: https://editor.p5js.org/panavym/full/16x_lyXFt
+Click on the little code symbol in the top right side!
 
 **Some of the art**
 
